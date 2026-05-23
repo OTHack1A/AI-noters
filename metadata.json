@@ -2,33 +2,41 @@
   {
     "id": "Cybersecurity",
     "filename": "AI_Cybersecurity_Impact_Report.pdf",
-    "title": "Introduzione",
+    "title": "Introduction",
     "author": "Author",
-    "year": 2024,
+    "year": 2026,
     "description": "Description of the impact of AI in cybersecurity"
   },
   {
     "id": "API",
     "filename": "API.pdf",
-    "title": "Metodi",
+    "title": "API",
     "author": "Author",
-    "year": 2024,
+    "year": 2026,
     "description": "API description in depth"
   },
   {
     "id": "JWT",
     "filename": "JWT.pdf",
-    "title": "Risultati",
+    "title": "JWT",
     "author": "Author",
-    "year": 2024,
+    "year": 2026,
     "description": "JWT description in depth."
   },
   {
     "id": "Oauth",
     "filename": "oauth.pdf",
-    "title": "Discussione",
-    "author": "Autore",
-    "year": 2024,
+    "title": "Oauth",
+    "author": "Author",
+    "year": 2026,
     "description": "JWT description in depth."
+  },
+    {
+    "id": "AI",
+    "filename": "AI.pdf",
+    "title": "AI",
+    "author": "Author",
+    "year": 2026,
+    "description": "AI description in depth."
   }
 ]
