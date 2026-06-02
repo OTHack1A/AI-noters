@@ -12,6 +12,7 @@ The notes are provided as reference PDFs in the [`PDF/`](PDF) folder, covering:
 *   **Generative AI:** Concepts and models behind generative AI (`IA_Generativa.pdf`).
 *   **AI & Cybersecurity:** How AI impacts cybersecurity (`AI_Cybersecurity_Impact_Report.pdf`).
 *   **Web APIs:** API fundamentals, REST and GraphQL (`API.pdf`).
+*   **Data Formats:** JSON syntax, common patterns, JSON as a lightweight database with Python, and JSON for AI (`JSON.pdf`).
 *   **Authentication:** JSON Web Tokens (`JWT.pdf`) and OAuth 2.0 explained step by step (`oauth.pdf`).
 *   **Developer Tooling:** Complete manuals for GitHub & GitLab (`GitHub_GitLab_Manuale_Completo.pdf`) and Node.js (`NodeJS_Manuale_Completo.pdf`).
 
