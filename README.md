@@ -6,32 +6,33 @@ Welcome to my personal repository of Artificial Intelligence notes, cheat sheets
 
 ## 📌 Repository Contents
 
-This repository is organized into different sections covering various aspects of AI:
+The notes are provided as reference PDFs in the [`PDF/`](PDF) folder, covering:
 
-*   **Foundations:** Core concepts and history of the various tools.
-*   **cybersecurity impact report:** Describe how IA work with cybersecurity.
-*   **Oauth:** Explanation step by step.
-*   **AI state of art:** View of the IA state of art with cybersecurity notes
-*   **Practical Implementations:** Code snippets, python example and mini-projects.
+*   **AI – State of the Art:** Overview of AI and where the field stands today (`AI.pdf`).
+*   **Generative AI:** Concepts and models behind generative AI (`IA_Generativa.pdf`).
+*   **AI & Cybersecurity:** How AI impacts cybersecurity (`AI_Cybersecurity_Impact_Report.pdf`).
+*   **Web APIs:** API fundamentals, REST and GraphQL (`API.pdf`).
+*   **Authentication:** JSON Web Tokens (`JWT.pdf`) and OAuth 2.0 explained step by step (`oauth.pdf`).
+*   **Developer Tooling:** Complete manuals for GitHub & GitLab (`GitHub_GitLab_Manuale_Completo.pdf`) and Node.js (`NodeJS_Manuale_Completo.pdf`).
 
 ---
 
 ## 🚀 Purpose
 
 The main goal of this repository is to:
-2. Keep track of my personal progress and learning materials.
-3. Provide a quick-reference guide for AI algorithms and techniques.
-4. Share clear, structured explanations that might help other students or developers.
-5. It is only notes for study material.
+1. Keep track of my personal progress and learning materials.
+2. Provide a quick-reference guide for AI algorithms and techniques.
+3. Share clear, structured explanations that might help other students or developers.
+4. Serve as study material.
 
 ---
 
 ## 🛠️ How to Use
 
-Feel free to explore the folders, read through the Markdown files, or run the available notebooks. If you spot a typo, an error, or want to expand on a concept, contributions are more than welcome!
+Feel free to explore the [`PDF/`](PDF) folder and read through the materials. If you spot a typo, an error, or want to expand on a concept, contributions are more than welcome!
 
 ---
 
 ## 📝 License
 
-This repository is open-source and available under the [MIT License](LICENSE). Feel free to use the notes for your own studies!
+This repository is open-source and available under the [MIT License](LICENSE.TXT). Feel free to use the notes for your own studies!
