@@ -1,19 +1,19 @@
 # Changelog — AI-notes
 
-## [Giugno 2026]
+## [June 2026]
 
-### Aggiunto
-- `PDF/AI_Generativa_Immagini_Video.pdf` — Nuova guida completa: AI generativa per immagini e video, evoluzione storica, modelli 2026, analisi costi, applicazioni, quiz, glossario
+### Added
+- `PDF/AI_Generativa_Immagini_Video.pdf` — New complete guide: generative AI for images and video, historical evolution, 2026 models, cost analysis, applications, quiz, glossary
 
-### Modificato
-- `README.md` — Aggiornato con tabella completa dei PDF, disclaimer uso didattico
-- `index.md` — Aggiornato indice con tutti i PDF disponibili
-- `metadata.json` — Aggiornato con tutti i documenti e campo `purpose: didattico`
+### Changed
+- `README.md` — Updated with full PDF table, educational use disclaimer, English language
+- `index.md` — Updated index with all available PDFs, English language
+- `metadata.json` — Updated with all documents, `purpose: educational` field, English descriptions
 
-### Corretto
-- `PDF/JSON.pdf` — Sostituito nome aziendale reale in esempio JSON con nome fittizio (`Acme Corporation`)
-- `PDF/PowerShell.pdf` — Rimossa indicazione di formato dalla copertina
+### Fixed
+- `PDF/JSON.pdf` — Replaced real company name in JSON example with a neutral placeholder (`Acme Corporation`)
+- `PDF/PowerShell.pdf` — Removed format label from cover page
 
 ---
 
-*Tutto il materiale è a esclusivo uso didattico e formativo — OTHack1A*
+*All materials are strictly for educational and personal study purposes — OTHack1A*
