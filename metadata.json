@@ -1,42 +1,122 @@
 [
   {
+    "id": "AI_Generativa_Immagini_Video",
+    "filename": "AI_Generativa_Immagini_Video.pdf",
+    "title": "AI Generativa: Immagini & Video",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Guida completa all'AI generativa per immagini e video: evoluzione storica, architetture (GAN, Diffusion, FLUX), stato dell'arte 2026, analisi costi, applicazioni, sviluppi futuri, quiz e glossario."
+  },
+  {
+    "id": "AI",
+    "filename": "AI.pdf",
+    "title": "Intelligenza Artificiale — Panoramica",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Panoramica sull'AI e stato dell'arte."
+  },
+  {
+    "id": "IA_Generativa",
+    "filename": "IA_Generativa.pdf",
+    "title": "AI Generativa",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Concetti e modelli dell'AI generativa."
+  },
+  {
+    "id": "Claude_Anthropic",
+    "filename": "Claude_Anthropic.pdf",
+    "title": "Claude e Anthropic — Guida Completa",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Guida completa a Claude (Anthropic): modelli, API, prompt engineering, casi d'uso."
+  },
+  {
     "id": "Cybersecurity",
     "filename": "AI_Cybersecurity_Impact_Report.pdf",
-    "title": "Introduction",
-    "author": "Author",
+    "title": "AI e Cybersecurity",
+    "author": "OTHack1A",
     "year": 2026,
-    "description": "Description of the impact of AI in cybersecurity"
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Impatto dell'intelligenza artificiale sulla cybersecurity."
+  },
+  {
+    "id": "PowerShell",
+    "filename": "PowerShell.pdf",
+    "title": "PowerShell — Manuale Completo",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Manuale completo PowerShell 5.1 e 7.x con integrazione AI."
+  },
+  {
+    "id": "NodeJS",
+    "filename": "NodeJS_Manuale_Completo.pdf",
+    "title": "Node.js — Manuale Completo",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Manuale completo Node.js."
+  },
+  {
+    "id": "GitHub_GitLab",
+    "filename": "GitHub_GitLab_Manuale_Completo.pdf",
+    "title": "GitHub & GitLab — Manuale Completo",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Manuale completo GitHub e GitLab."
+  },
+  {
+    "id": "OAuth",
+    "filename": "oauth.pdf",
+    "title": "OAuth 2.0",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "OAuth 2.0 spiegato passo per passo."
   },
   {
     "id": "API",
     "filename": "API.pdf",
-    "title": "API",
-    "author": "Author",
+    "title": "API Web — REST e GraphQL",
+    "author": "OTHack1A",
     "year": 2026,
-    "description": "API description in depth"
+    "language": "it",
+    "purpose": "didattico",
+    "description": "Fondamenti delle API Web, REST e GraphQL."
+  },
+  {
+    "id": "JSON",
+    "filename": "JSON.pdf",
+    "title": "JSON",
+    "author": "OTHack1A",
+    "year": 2026,
+    "language": "it",
+    "purpose": "didattico",
+    "description": "JSON: sintassi, pattern comuni, uso con Python, JSON per AI."
   },
   {
     "id": "JWT",
     "filename": "JWT.pdf",
-    "title": "JWT",
-    "author": "Author",
+    "title": "JSON Web Tokens",
+    "author": "OTHack1A",
     "year": 2026,
-    "description": "JWT description in depth."
-  },
-  {
-    "id": "Oauth",
-    "filename": "oauth.pdf",
-    "title": "Oauth",
-    "author": "Author",
-    "year": 2026,
-    "description": "JWT description in depth."
-  },
-    {
-    "id": "AI",
-    "filename": "AI.pdf",
-    "title": "AI",
-    "author": "Author",
-    "year": 2026,
-    "description": "AI description in depth."
+    "language": "it",
+    "purpose": "didattico",
+    "description": "JSON Web Tokens spiegati in dettaglio."
   }
 ]

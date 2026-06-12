@@ -1,23 +1,19 @@
-# Changelog
+# Changelog — AI-notes
 
-All notable changes to this project will be documented in this file.
+## [Giugno 2026]
 
-## [1.2.0] - 2026-05-23
+### Aggiunto
+- `PDF/AI_Generativa_Immagini_Video.pdf` — Nuova guida completa: AI generativa per immagini e video, evoluzione storica, modelli 2026, analisi costi, applicazioni, quiz, glossario
 
-### Added
-- Added AI notes
-- Added Oauth and JWT notes
+### Modificato
+- `README.md` — Aggiornato con tabella completa dei PDF, disclaimer uso didattico
+- `index.md` — Aggiornato indice con tutti i PDF disponibili
+- `metadata.json` — Aggiornato con tutti i documenti e campo `purpose: didattico`
 
-### Changed
-- Improved loading speed on the dashboard.
+### Corretto
+- `PDF/JSON.pdf` — Sostituito nome aziendale reale in esempio JSON con nome fittizio (`Acme Corporation`)
+- `PDF/PowerShell.pdf` — Rimossa indicazione di formato dalla copertina
 
-### Fixed
-- 
+---
 
-## [1.1.0] - 2026-04-10
-
-### Added
-- PDF files
-
-### Fixed
-- 
+*Tutto il materiale è a esclusivo uso didattico e formativo — OTHack1A*

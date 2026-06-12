@@ -1,39 +1,54 @@
-# Artificial Intelligence Notes 🧠💻
+# Artificial Intelligence Notes 🧠💻 — OTHack1A
 
-Welcome to my personal repository of Artificial Intelligence notes, cheat sheets, and reference materials. This repository serves as a digital notebook where I document my learning journey, core concepts, and practical implementations in the field of AI.
+Raccolta personale di note, guide di riferimento e materiale didattico sull'Intelligenza Artificiale e tecnologie correlate.
 
----
-
-## 📌 Repository Contents
-
-The notes are provided as reference PDFs in the [`PDF/`](PDF) folder, covering:
-
-*   **AI – State of the Art:** Overview of AI and where the field stands today (`AI.pdf`).
-*   **Generative AI:** Concepts and models behind generative AI (`IA_Generativa.pdf`).
-*   **AI & Cybersecurity:** How AI impacts cybersecurity (`AI_Cybersecurity_Impact_Report.pdf`).
-*   **Web APIs:** API fundamentals, REST and GraphQL (`API.pdf`).
-*   **Data Formats:** JSON syntax, common patterns, JSON as a lightweight database with Python, and JSON for AI (`JSON.pdf`).
-*   **Authentication:** JSON Web Tokens (`JWT.pdf`) and OAuth 2.0 explained step by step (`oauth.pdf`).
-*   **Developer Tooling:** Complete manuals for GitHub & GitLab (`GitHub_GitLab_Manuale_Completo.pdf`) and Node.js (`NodeJS_Manuale_Completo.pdf`).
+> ⚠️ **Uso esclusivamente didattico.** Tutti i documenti in questo repository sono materiale di studio personale, prodotti a scopo formativo e di apprendimento. Non sono documenti professionali o commerciali.
 
 ---
 
-## 🚀 Purpose
+## 📚 Contenuto del repository
 
-The main goal of this repository is to:
-1. Keep track of my personal progress and learning materials.
-2. Provide a quick-reference guide for AI algorithms and techniques.
-3. Share clear, structured explanations that might help other students or developers.
-4. Serve as study material.
+I PDF sono nella cartella [`PDF/`](./PDF/):
+
+| File | Argomento | Lingua |
+|------|-----------|--------|
+| [`AI_Generativa_Immagini_Video.pdf`](PDF/AI_Generativa_Immagini_Video.pdf) | AI Generativa per Immagini e Video: evoluzione, stato dell'arte, costi, applicazioni | 🇮🇹 |
+| [`AI.pdf`](PDF/AI.pdf) | Panoramica sull'AI e stato dell'arte | 🇮🇹 |
+| [`IA_Generativa.pdf`](PDF/IA_Generativa.pdf) | AI Generativa: concetti e modelli | 🇮🇹 |
+| [`Claude_Anthropic.pdf`](PDF/Claude_Anthropic.pdf) | Guida completa a Claude e Anthropic | 🇮🇹 |
+| [`AI_Cybersecurity_Impact_Report.pdf`](PDF/AI_Cybersecurity_Impact_Report.pdf) | Impatto dell'AI sulla cybersecurity | 🇮🇹 |
+| [`PowerShell.pdf`](PDF/PowerShell.pdf) | Manuale completo PowerShell 5.1 / 7.x | 🇮🇹 |
+| [`NodeJS_Manuale_Completo.pdf`](PDF/NodeJS_Manuale_Completo.pdf) | Manuale completo Node.js | 🇮🇹 |
+| [`GitHub_GitLab_Manuale_Completo.pdf`](PDF/GitHub_GitLab_Manuale_Completo.pdf) | Manuale completo GitHub & GitLab | 🇮🇹 |
+| [`oauth.pdf`](PDF/oauth.pdf) | OAuth 2.0 spiegato passo per passo | 🇮🇹 |
+| [`API.pdf`](PDF/API.pdf) | Fondamenti API Web, REST e GraphQL | 🇮🇹 |
+| [`JSON.pdf`](PDF/JSON.pdf) | JSON: sintassi, pattern, uso con Python e AI | 🇮🇹 |
+| [`JWT.pdf`](PDF/JWT.pdf) | JSON Web Tokens spiegati | 🇮🇹 |
 
 ---
 
-## 🛠️ How to Use
+## 🎯 Obiettivo
 
-Feel free to explore the [`PDF/`](PDF) folder and read through the materials. If you spot a typo, an error, or want to expand on a concept, contributions are more than welcome!
+1. Tenere traccia del percorso personale di apprendimento sull'AI e sulle tecnologie correlate.
+2. Creare guide di riferimento rapido su algoritmi, strumenti e concetti chiave.
+3. Condividere spiegazioni chiare e strutturate utili ad altri studenti o appassionati.
+4. **Tutto il materiale è a uso didattico e formativo.**
 
 ---
 
-## 📝 License
+## 🛠️ Come usare
 
-This repository is open-source and available under the [MIT License](LICENSE.TXT). Feel free to use the notes for your own studies!
+Scarica o visualizza direttamente i PDF dalla cartella [`PDF/`](./PDF/). Ogni documento è autonomo e consultabile indipendentemente.
+
+Se trovi errori, imprecisioni o vuoi contribuire: le PR sono benvenute!
+
+---
+
+## 📄 Licenza
+
+Questo repository è open source sotto licenza [MIT](./LICENSE.TXT).  
+Puoi usare liberamente il materiale per i tuoi studi.
+
+---
+
+*OTHack1A — Giugno 2026*
